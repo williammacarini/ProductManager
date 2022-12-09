@@ -1,0 +1,15 @@
+C:\Repository\ProductManager\src\ProductManager.Infra.Data\bin\Debug\net5.0\ProductManager.Infra.Data.deps.json
+C:\Repository\ProductManager\src\ProductManager.Infra.Data\bin\Debug\net5.0\ProductManager.Infra.Data.dll
+C:\Repository\ProductManager\src\ProductManager.Infra.Data\bin\Debug\net5.0\ProductManager.Infra.Data.pdb
+C:\Repository\ProductManager\src\ProductManager.Infra.Data\bin\Debug\net5.0\ProductManager.Domain.dll
+C:\Repository\ProductManager\src\ProductManager.Infra.Data\bin\Debug\net5.0\ProductManager.Domain.pdb
+C:\Repository\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net5.0\ProductManager.Infra.Data.csproj.AssemblyReference.cache
+C:\Repository\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net5.0\ProductManager.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net5.0\ProductManager.Infra.Data.AssemblyInfoInputs.cache
+C:\Repository\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net5.0\ProductManager.Infra.Data.AssemblyInfo.cs
+C:\Repository\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net5.0\ProductManager.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Repository\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net5.0\ProductManager.Infra.Data.csproj.CopyComplete
+C:\Repository\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net5.0\ProductManager.Infra.Data.dll
+C:\Repository\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net5.0\refint\ProductManager.Infra.Data.dll
+C:\Repository\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net5.0\ProductManager.Infra.Data.pdb
+C:\Repository\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net5.0\ref\ProductManager.Infra.Data.dll
