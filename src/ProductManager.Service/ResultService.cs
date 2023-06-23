@@ -38,25 +38,25 @@ namespace ProductManager.Service
             };
         }
 
-        public static ResultService Fail(string message) => new ResultService
+        public static ResultService Fail(string message) => new()
         {
             IsSuccess = false,
             Message = message
         };
 
-        public static ResultService<T> Fail<T>(string message) => new ResultService<T>
+        public static ResultService<T> Fail<T>(string message) => new()
         {
             IsSuccess = false,
             Message = message
         };
 
-        public static ResultService Ok(string message) => new ResultService
+        public static ResultService Ok(string message) => new()
         {
             IsSuccess = true,
             Message = message
         };
 
-        public static ResultService<T> Ok<T>(T data) => new ResultService<T>
+        public static ResultService<T> Ok<T>(T data) => new()
         {
             IsSuccess = true,
             Data = data

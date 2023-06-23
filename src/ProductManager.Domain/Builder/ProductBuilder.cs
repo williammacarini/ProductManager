@@ -6,7 +6,7 @@ namespace ProductManager.Domain.Builder
 {
     public class ProductBuilder
     {
-        private Product _product;
+        private readonly Product _product;
 
         public ProductBuilder(Product product)
         {

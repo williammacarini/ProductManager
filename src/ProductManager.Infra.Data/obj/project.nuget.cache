@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "02b4Cx3Pb9L7nmLC6U9AHfYrM2Ig00ZzijE4Si3sX/4mdFHyPNcHpm/SldGj49jgQOf+S0a6CfGc/nuUgTaDFw==",
+  "dgSpecHash": "P4Oii2BpMxrC2DUzpC3xrdB6WfbEShEqH/d5TYqix7Fbd4uB0f4ItY6CASapMI+e7NUBSxbB+rYSaW6b/tJung==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\ProductManager\\src\\ProductManager.Infra.Data\\ProductManager.Infra.Data.csproj",
+  "projectFilePath": "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Infra.Data\\ProductManager.Infra.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\william.macarini\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.17\\microsoft.entityframeworkcore.5.0.17.nupkg.sha512",
     "C:\\Users\\william.macarini\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.17\\microsoft.entityframeworkcore.abstractions.5.0.17.nupkg.sha512",

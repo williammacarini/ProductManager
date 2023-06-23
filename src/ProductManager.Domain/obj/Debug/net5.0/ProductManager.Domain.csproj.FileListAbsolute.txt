@@ -10,3 +10,15 @@ C:\Repository\ProductManager\src\ProductManager.Domain\obj\Debug\net5.0\ProductM
 C:\Repository\ProductManager\src\ProductManager.Domain\obj\Debug\net5.0\refint\ProductManager.Domain.dll
 C:\Repository\ProductManager\src\ProductManager.Domain\obj\Debug\net5.0\ProductManager.Domain.pdb
 C:\Repository\ProductManager\src\ProductManager.Domain\obj\Debug\net5.0\ref\ProductManager.Domain.dll
+C:\Repository\GitHub\ProductManager\src\ProductManager.Domain\bin\Debug\net5.0\ProductManager.Domain.deps.json
+C:\Repository\GitHub\ProductManager\src\ProductManager.Domain\bin\Debug\net5.0\ProductManager.Domain.dll
+C:\Repository\GitHub\ProductManager\src\ProductManager.Domain\bin\Debug\net5.0\ProductManager.Domain.pdb
+C:\Repository\GitHub\ProductManager\src\ProductManager.Domain\obj\Debug\net5.0\ProductManager.Domain.csproj.AssemblyReference.cache
+C:\Repository\GitHub\ProductManager\src\ProductManager.Domain\obj\Debug\net5.0\ProductManager.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\GitHub\ProductManager\src\ProductManager.Domain\obj\Debug\net5.0\ProductManager.Domain.AssemblyInfoInputs.cache
+C:\Repository\GitHub\ProductManager\src\ProductManager.Domain\obj\Debug\net5.0\ProductManager.Domain.AssemblyInfo.cs
+C:\Repository\GitHub\ProductManager\src\ProductManager.Domain\obj\Debug\net5.0\ProductManager.Domain.csproj.CoreCompileInputs.cache
+C:\Repository\GitHub\ProductManager\src\ProductManager.Domain\obj\Debug\net5.0\ProductManager.Domain.dll
+C:\Repository\GitHub\ProductManager\src\ProductManager.Domain\obj\Debug\net5.0\refint\ProductManager.Domain.dll
+C:\Repository\GitHub\ProductManager\src\ProductManager.Domain\obj\Debug\net5.0\ProductManager.Domain.pdb
+C:\Repository\GitHub\ProductManager\src\ProductManager.Domain\obj\Debug\net5.0\ref\ProductManager.Domain.dll

@@ -11,14 +11,14 @@ namespace ProductManager
 {
     public class Startup
     {
+        private IConfiguration _configuration { get; }
+        private IWebHostEnvironment _enviroment { get; }
+
         public Startup(IConfiguration configuration, IWebHostEnvironment environment)
         {
             _configuration = configuration;
             _enviroment = environment;
         }
-
-        private IConfiguration _configuration { get; }
-        private IWebHostEnvironment _enviroment { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)

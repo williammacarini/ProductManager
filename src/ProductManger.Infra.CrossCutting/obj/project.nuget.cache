@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/qchqACALGrltXgmQ6KtqkNeK/FYdFHaIYgfifKbkWkO4M8pnxi+p183XmP9evLgdChxc7NXl735SWZHLLNT2g==",
+  "dgSpecHash": "SgtF9Jof0SeG4oVUBD8qFyeQmcvKezH13xO1NjzEMsz+/jUlUVsPLJ6o1i7N+LPUtI3ItHLSqPZ1nmwnG0xHwg==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\ProductManager\\src\\ProductManger.Infra.CrossCutting\\ProductManger.Infra.CrossCutting.csproj",
+  "projectFilePath": "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManger.Infra.CrossCutting\\ProductManger.Infra.CrossCutting.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\william.macarini\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\william.macarini\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

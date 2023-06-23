@@ -42,7 +42,7 @@ namespace ProductManager.Service.Services
 
             await _productRepository.CreateAsync(map);
 
-            return ResultService.Ok<ProductDto>(_mapper.Map<ProductDto>(product));
+            return ResultService.Ok(_mapper.Map<ProductDto>(product));
         }
 
         public async Task<ResultService> DeleteAsync(int code)
@@ -59,7 +59,7 @@ namespace ProductManager.Service.Services
         public async Task<ResultService<ICollection<ProductDto>>> GetAllAsync()
         {
             var products = await _productRepository.GetAllAsync();
-            return ResultService.Ok<ICollection<ProductDto>>(_mapper.Map<ICollection<ProductDto>>(products));
+            return ResultService.Ok(_mapper.Map<ICollection<ProductDto>>(products));
         }
 
         public async Task<ResultService<ProductDto>> GetByCodeAsync(int code)
@@ -69,7 +69,7 @@ namespace ProductManager.Service.Services
             if (product is null)
                 return ResultService.Fail<ProductDto>("Produto não localizado!");
 
-            return ResultService.Ok<ProductDto>(_mapper.Map<ProductDto>(product));
+            return ResultService.Ok(_mapper.Map<ProductDto>(product));
         }
 
         public async Task<ResultService> UpdateAsync(ProductDto product)
