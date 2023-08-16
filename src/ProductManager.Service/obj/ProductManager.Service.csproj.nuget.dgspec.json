@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Service\\ProductManager.Service.csproj": {}
+    "C:\\repo\\ProductManager\\src\\ProductManager.Service\\ProductManager.Service.csproj": {}
   },
   "projects": {
-    "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj": {
+    "C:\\repo\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj",
+        "projectUniqueName": "C:\\repo\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj",
         "projectName": "ProductManager.Domain",
-        "projectPath": "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj",
+        "projectPath": "C:\\repo\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj",
         "packagesPath": "C:\\Users\\william.macarini\\.nuget\\packages\\",
-        "outputPath": "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Domain\\obj\\",
+        "outputPath": "C:\\repo\\ProductManager\\src\\ProductManager.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -22,16 +22,17 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nexus.ambevdevs.com.br/nexus/repository/nuget-hosted/": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {}
           }
         },
@@ -42,8 +43,8 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
@@ -60,18 +61,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Service\\ProductManager.Service.csproj": {
+    "C:\\repo\\ProductManager\\src\\ProductManager.Service\\ProductManager.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Service\\ProductManager.Service.csproj",
+        "projectUniqueName": "C:\\repo\\ProductManager\\src\\ProductManager.Service\\ProductManager.Service.csproj",
         "projectName": "ProductManager.Service",
-        "projectPath": "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Service\\ProductManager.Service.csproj",
+        "projectPath": "C:\\repo\\ProductManager\\src\\ProductManager.Service\\ProductManager.Service.csproj",
         "packagesPath": "C:\\Users\\william.macarini\\.nuget\\packages\\",
-        "outputPath": "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Service\\obj\\",
+        "outputPath": "C:\\repo\\ProductManager\\src\\ProductManager.Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -82,19 +83,20 @@
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
-          "net5.0"
+          "net7.0"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nexus.ambevdevs.com.br/nexus/repository/nuget-hosted/": {}
         },
         "frameworks": {
-          "net5.0": {
-            "targetAlias": "net5.0",
+          "net7.0": {
+            "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj": {
-                "projectPath": "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj"
+              "C:\\repo\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj": {
+                "projectPath": "C:\\repo\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj"
               }
             }
           }
@@ -106,16 +108,16 @@
         }
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "dependencies": {
             "AutoMapper": {
               "target": "Package",
-              "version": "[11.0.1, )"
+              "version": "[12.0.1, )"
             },
             "FluentValidation": {
               "target": "Package",
-              "version": "[11.1.0, )"
+              "version": "[11.7.1, )"
             }
           },
           "imports": [
@@ -134,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }

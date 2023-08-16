@@ -1,0 +1,15 @@
+C:\repo\ProductManager\src\ProductManager.Service\bin\Debug\net7.0\ProductManager.Service.deps.json
+C:\repo\ProductManager\src\ProductManager.Service\bin\Debug\net7.0\ProductManager.Service.dll
+C:\repo\ProductManager\src\ProductManager.Service\bin\Debug\net7.0\ProductManager.Service.pdb
+C:\repo\ProductManager\src\ProductManager.Service\bin\Debug\net7.0\ProductManager.Domain.dll
+C:\repo\ProductManager\src\ProductManager.Service\bin\Debug\net7.0\ProductManager.Domain.pdb
+C:\repo\ProductManager\src\ProductManager.Service\obj\Debug\net7.0\ProductManager.Service.csproj.AssemblyReference.cache
+C:\repo\ProductManager\src\ProductManager.Service\obj\Debug\net7.0\ProductManager.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\ProductManager\src\ProductManager.Service\obj\Debug\net7.0\ProductManager.Service.AssemblyInfoInputs.cache
+C:\repo\ProductManager\src\ProductManager.Service\obj\Debug\net7.0\ProductManager.Service.AssemblyInfo.cs
+C:\repo\ProductManager\src\ProductManager.Service\obj\Debug\net7.0\ProductManager.Service.csproj.CoreCompileInputs.cache
+C:\repo\ProductManager\src\ProductManager.Service\obj\Debug\net7.0\ProductManager.Service.csproj.CopyComplete
+C:\repo\ProductManager\src\ProductManager.Service\obj\Debug\net7.0\ProductManager.Service.dll
+C:\repo\ProductManager\src\ProductManager.Service\obj\Debug\net7.0\refint\ProductManager.Service.dll
+C:\repo\ProductManager\src\ProductManager.Service\obj\Debug\net7.0\ProductManager.Service.pdb
+C:\repo\ProductManager\src\ProductManager.Service\obj\Debug\net7.0\ref\ProductManager.Service.dll

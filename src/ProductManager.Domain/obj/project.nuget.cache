@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X6VotEj/XcgLKSvo4KCI+CQB5PiYj3eR1fSbCB1o0fgldnl3h8wtlEtnKtbJ4tXpzuZyrt0Ils5n0n891qgeDg==",
+  "dgSpecHash": "HlnquN6WRXVopQRYmypvjsd9N8lYG19dv974rJ4XzUprbFglhwJZaNIExO5xhkBP0/yj5ZLuwM8kK5NiBk7PTQ==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj",
+  "projectFilePath": "C:\\repo\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

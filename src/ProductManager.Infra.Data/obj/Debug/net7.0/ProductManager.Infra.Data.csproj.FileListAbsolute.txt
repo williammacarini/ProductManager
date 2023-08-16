@@ -1,0 +1,15 @@
+C:\repo\ProductManager\src\ProductManager.Infra.Data\bin\Debug\net7.0\ProductManager.Infra.Data.deps.json
+C:\repo\ProductManager\src\ProductManager.Infra.Data\bin\Debug\net7.0\ProductManager.Infra.Data.dll
+C:\repo\ProductManager\src\ProductManager.Infra.Data\bin\Debug\net7.0\ProductManager.Infra.Data.pdb
+C:\repo\ProductManager\src\ProductManager.Infra.Data\bin\Debug\net7.0\ProductManager.Domain.dll
+C:\repo\ProductManager\src\ProductManager.Infra.Data\bin\Debug\net7.0\ProductManager.Domain.pdb
+C:\repo\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net7.0\ProductManager.Infra.Data.csproj.AssemblyReference.cache
+C:\repo\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net7.0\ProductManager.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net7.0\ProductManager.Infra.Data.AssemblyInfoInputs.cache
+C:\repo\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net7.0\ProductManager.Infra.Data.AssemblyInfo.cs
+C:\repo\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net7.0\ProductManager.Infra.Data.csproj.CoreCompileInputs.cache
+C:\repo\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net7.0\ProductManager.Infra.Data.csproj.CopyComplete
+C:\repo\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net7.0\ProductManager.Infra.Data.dll
+C:\repo\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net7.0\refint\ProductManager.Infra.Data.dll
+C:\repo\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net7.0\ProductManager.Infra.Data.pdb
+C:\repo\ProductManager\src\ProductManager.Infra.Data\obj\Debug\net7.0\ref\ProductManager.Infra.Data.dll

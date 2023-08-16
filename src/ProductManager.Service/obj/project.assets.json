@@ -1,8 +1,8 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {
-      "AutoMapper/11.0.1": {
+    "net7.0": {
+      "AutoMapper/12.0.1": {
         "type": "package",
         "dependencies": {
           "Microsoft.CSharp": "4.7.0"
@@ -18,15 +18,15 @@
           }
         }
       },
-      "FluentValidation/11.1.0": {
+      "FluentValidation/11.7.1": {
         "type": "package",
         "compile": {
-          "lib/net5.0/FluentValidation.dll": {
+          "lib/net7.0/FluentValidation.dll": {
             "related": ".xml"
           }
         },
         "runtime": {
-          "lib/net5.0/FluentValidation.dll": {
+          "lib/net7.0/FluentValidation.dll": {
             "related": ".xml"
           }
         }
@@ -42,7 +42,7 @@
       },
       "ProductManager.Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETCoreApp,Version=v5.0",
+        "framework": ".NETCoreApp,Version=v7.0",
         "compile": {
           "bin/placeholder/ProductManager.Domain.dll": {}
         },
@@ -53,36 +53,38 @@
     }
   },
   "libraries": {
-    "AutoMapper/11.0.1": {
-      "sha512": "WIadGC1pIwbnyTubvI577p3F++Bsj9q2Q3OaAc1I0QS+JhupN1xkdrPBhI9bPIeg63zM81tZplUNYkqU1HE5jQ==",
+    "AutoMapper/12.0.1": {
+      "sha512": "hvV62vl6Hp/WfQ24yzo3Co9+OPl8wH8hApwVtgWpiAynVJkUcs7xvehnSftawL8Pe8FrPffBRM3hwzLQqWDNjA==",
       "type": "package",
-      "path": "automapper/11.0.1",
+      "path": "automapper/12.0.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
-        "automapper.11.0.1.nupkg.sha512",
+        "automapper.12.0.1.nupkg.sha512",
         "automapper.nuspec",
         "icon.png",
         "lib/netstandard2.1/AutoMapper.dll",
         "lib/netstandard2.1/AutoMapper.xml"
       ]
     },
-    "FluentValidation/11.1.0": {
-      "sha512": "Ld7w+2jOmnhQqFkngEGuEWTRa5j6u4Xzli7jKxRtbA5PtuHHcpin01qxvxYL0LomeJuzRMGAOURu2rKONdjKQA==",
+    "FluentValidation/11.7.1": {
+      "sha512": "w9Al4gls6iVGFbTd/NPOPlwzqDTghH+ntL4c4FYUatc+LeybpIwhYArLykZJP/VjF2n3ihj3ws+1yd7KR5lQlg==",
       "type": "package",
-      "path": "fluentvalidation/11.1.0",
+      "path": "fluentvalidation/11.7.1",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "README.md",
         "fluent-validation-icon.png",
-        "fluentvalidation.11.1.0.nupkg.sha512",
+        "fluentvalidation.11.7.1.nupkg.sha512",
         "fluentvalidation.nuspec",
         "lib/net5.0/FluentValidation.dll",
         "lib/net5.0/FluentValidation.xml",
         "lib/net6.0/FluentValidation.dll",
         "lib/net6.0/FluentValidation.xml",
+        "lib/net7.0/FluentValidation.dll",
+        "lib/net7.0/FluentValidation.xml",
         "lib/netstandard2.0/FluentValidation.dll",
         "lib/netstandard2.0/FluentValidation.xml",
         "lib/netstandard2.1/FluentValidation.dll",
@@ -165,9 +167,9 @@
     }
   },
   "projectFileDependencyGroups": {
-    "net5.0": [
-      "AutoMapper >= 11.0.1",
-      "FluentValidation >= 11.1.0",
+    "net7.0": [
+      "AutoMapper >= 12.0.1",
+      "FluentValidation >= 11.7.1",
       "ProductManager.Domain >= 1.0.0"
     ]
   },
@@ -178,11 +180,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Service\\ProductManager.Service.csproj",
+      "projectUniqueName": "C:\\repo\\ProductManager\\src\\ProductManager.Service\\ProductManager.Service.csproj",
       "projectName": "ProductManager.Service",
-      "projectPath": "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Service\\ProductManager.Service.csproj",
+      "projectPath": "C:\\repo\\ProductManager\\src\\ProductManager.Service\\ProductManager.Service.csproj",
       "packagesPath": "C:\\Users\\william.macarini\\.nuget\\packages\\",
-      "outputPath": "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Service\\obj\\",
+      "outputPath": "C:\\repo\\ProductManager\\src\\ProductManager.Service\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -193,19 +195,20 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net5.0"
+        "net7.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {},
         "https://nexus.ambevdevs.com.br/nexus/repository/nuget-hosted/": {}
       },
       "frameworks": {
-        "net5.0": {
-          "targetAlias": "net5.0",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj": {
-              "projectPath": "C:\\Repository\\GitHub\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj"
+            "C:\\repo\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj": {
+              "projectPath": "C:\\repo\\ProductManager\\src\\ProductManager.Domain\\ProductManager.Domain.csproj"
             }
           }
         }
@@ -217,16 +220,16 @@
       }
     },
     "frameworks": {
-      "net5.0": {
-        "targetAlias": "net5.0",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "dependencies": {
           "AutoMapper": {
             "target": "Package",
-            "version": "[11.0.1, )"
+            "version": "[12.0.1, )"
           },
           "FluentValidation": {
             "target": "Package",
-            "version": "[11.1.0, )"
+            "version": "[11.7.1, )"
           }
         },
         "imports": [
@@ -245,7 +248,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
       }
     }
   }
